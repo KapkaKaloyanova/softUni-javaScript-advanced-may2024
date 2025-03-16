@@ -1,2 +1,2 @@
 # SoftUni-courses
-JS - Programing Fundamentals january 2024
+JS - Advanced may 2024
